@@ -1,3 +1,10 @@
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/yashmohod/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=7838723&isLevel=false" alt="jyot" height="200" width="200" /></a>
+</p>
+
 <br/>
   <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
