@@ -19,4 +19,5 @@
 <br>
 <div align=center>
 <img width=390 src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~6F8IRBU3DGYS/CERTIFICATE_LANDING_PAGE~6F8IRBU3DGYS.jpeg" alt="streak stats"/>
+  <img width=390 src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9C2AH2Q0RU1N/CERTIFICATE_LANDING_PAGE~9C2AH2Q0RU1N.jpeg" alt="streak stats"/>
 </div>
